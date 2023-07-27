@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 13-Spawn-Room
   m_EditorClassIdentifier: 
+  Title:
+    m_Untranslated: Drag the Prefab into the Scene
   m_Paragraphs:
     m_Items:
     - m_Type: 7
@@ -82,7 +84,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Drag the Prefab into the Scene
+        m_Untranslated: 
       Text:
         m_Untranslated: 'The <b>Project window</b> is where you can find all the
           files used in your Unity project.
@@ -205,6 +207,7 @@ MonoBehaviour:
   Invalidated:
     m_PersistentCalls:
       m_Calls: []
+  isTesting: 0
   m_PrefabParent: {fileID: 7389833897528589514, guid: 115dbd335d944e049a14c0345b664cf6,
     type: 3}
   m_FuturePrefabInstances:
